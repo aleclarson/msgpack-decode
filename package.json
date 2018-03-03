@@ -1,0 +1,7 @@
+{
+  "name": "msgpack-decode",
+  "version": "0.0.1",
+  "dependencies": {
+    "bops": "^1.0.0"
+  }
+}
